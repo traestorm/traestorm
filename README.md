@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Trae.
 
-Infrastructure engineer — 35+ years, from BBSs, telco network automation and virtualization to modern Linux. Structured programming in the '80s, systems automation scripting with various scripting languages, VMware cloud with fibre replication in 2010 before the DevOps era.
+Infrastructure engineer — 35+ years, from BBSs, telco network automation, and virtualization to modern Linux. Structured programming in the '80s, systems automation scripting with various scripting languages, VMware cloud with fibre replication in 2010 before the DevOps era.
 
 ## 📍 Location
 
