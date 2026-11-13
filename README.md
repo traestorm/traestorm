@@ -6,7 +6,7 @@ Infrastructure engineer — 35+ years, from BBSs, telco network automation and v
 
 Canada (EST). Open to remote collaboration.
 
-## 🌱 Currently
+## 🌱 Current Projects
 
 - Building a homelab (network-first: VPN, routing, DNS/DHCP, certs, nftables, SSO → VMs/containers)
 - Contributing to [FS25 ModYard](https://github.com/fizzyhd/FS25-ModYard) — filed the first three issues
