@@ -1,9 +1,47 @@
-- 👋 Hi, I’m @traestorm.  You can call me Trae.
-- 👀 I’m interested in all sorts of things including coding, RC vehicles, electronics, video games, and miniature painting.
-- 🌱 I’m currently learning Go.  I learned structured programming in the 80's but have been working in Infrastructure in the intervening years.
-- 💞️ I’m looking to collaborate on pretty much anything considering I need to relearn almost everything.  I have an interest in a number of areas.  My current project is a web search engine that could potentially replace Google.  I would also like to learn game programming A.I.  I have always been unsatisfied with enemy responses and patching in games, so that is an area I'd like to explore.  In general, I want to be able to tackle any problem with some degree of confidence.
-- 📫 How to reach me: Discord: TraeStorm# Email: trae . storm at gmail.
-- If you have other questions, feel free to ask.
+## 👋 Hi, I'm Trae.
+
+Infrastructure engineer — 35+ years, from BBSs, telco network automation and virtualization to modern Linux. Structured programming in the '80s, systems automation scripting with various scripting languages, VMware cloud with fibre replication in 2010 before the DevOps era.
+
+## 📍 Location
+
+Canada (EST). Open to remote collaboration.
+
+## 🌱 Currently
+
+- Building a homelab (network-first: VPN, routing, DNS/DHCP, certs, nftables, SSO → VMs/containers)
+- Contributing to [FS25 ModYard](https://github.com/fizzyhd/FS25-ModYard) — filed the first three issues
+- Running CachyOS / Proton / KDE / fish
+
+## 💻 Software Development
+- Languages: Waterloo Basic, BetterBASIC, Pascal, C, Python (v1, upgrading to v3)   
+- Current Project:  Web Search Engine in Go
+
+## 🛠 Stack
+
+Linux (Arch/CachyOS), systemd, Proton/Wine, fish/bash, networking (OSPF, BGP, DNS, WireGuard),
+VMware, nftables, SSO, scripting
+
+## 📦 Repos
+
+| Repo | What |
+|---|---|
+| [homelab-network](link) | WireGuard, nftables, DNS, routing configs |
+| [homelab-vm](link) | VM/container setup |
+| [search-engine](link) | Go web search engine |
+
+## 🎮 Hobbies
+
+RC vehicles, miniature painting, video games, game AI (the "why do enemies walk into walls" problem)
+
+## 💞 Looking to collaborate on
+
+Linux infra, networking, homelab configs, Proton/Wine troubleshooting. Open to anything that involves breaking something and fixing it.  Go (Golang) applications.
+
+## 📫 Reach me
+
+Discord: TraeStorm
+Email: trae.storm at gmail
+[Bluesky](https://bsky.app/profile/traestorm.bsky.social)
 
 <!---
 traestorm/traestorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
