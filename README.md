@@ -26,8 +26,8 @@ VMware, nftables, SSO, scripting
 | Repo | What |
 |---|---|
 | [homelab-network](https://github.com/traestorm/homelab-network) | 🚧 WireGuard, nftables, DNS, routing configs |
-| [homelab-vm](link) | 🚧 VM/container setup |
-| [search-engine](link) | 🚧 Go web search engine |
+| [homelab-vm](https://github.com/traestorm/homelab-vm) | 🚧 VM/container setup |
+| [search-engine](https://github.com/traestorm/search-engine) | 🚧 Go web search engine |
 
 ## 🎮 Hobbies
 
