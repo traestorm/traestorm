@@ -25,9 +25,9 @@ VMware, nftables, SSO, scripting
 
 | Repo | What |
 |---|---|
-| [homelab-network](link) | WireGuard, nftables, DNS, routing configs |
-| [homelab-vm](link) | VM/container setup |
-| [search-engine](link) | Go web search engine |
+| [homelab-network](link) | 🚧 WireGuard, nftables, DNS, routing configs |
+| [homelab-vm](link) | 🚧 VM/container setup |
+| [search-engine](link) | 🚧 Go web search engine |
 
 ## 🎮 Hobbies
 
